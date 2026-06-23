@@ -149,7 +149,7 @@ http://host.docker.internal:9090
 
 ## 📸 Dashboard Preview
 
-![Grafana Dashboard](screenshots/dashboard.png)
+![Grafana Dashboard](dashboard.png)
 
 ---
 
