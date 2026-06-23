@@ -149,7 +149,11 @@ http://host.docker.internal:9090
 
 ## 📸 Dashboard Preview
 
-![Grafana Dashboard](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
+
+> 📊 Grafana dashboard showing asteroid insights
 
 ---
 
