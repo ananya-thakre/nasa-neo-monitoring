@@ -144,3 +144,38 @@ http://host.docker.internal:9090
 ```
 
 5. Click **Save & Test**
+
+---
+
+## 📸 Dashboard Preview
+
+![Grafana Dashboard](screenshots/dashboard.png)
+
+---
+
+## ⚠️ Notes
+
+- The API shows asteroids within a **7-day window**
+- Data updates periodically (not real-time every second)
+- Free NASA API has **rate limits**
+
+---
+
+## 🎯 Use Cases
+
+- 🚀 Space monitoring systems  
+- 📊 Real-time dashboards  
+- 📈 Data visualization projects  
+- 🎓 Educational demos  
+
+---
+
+## 👩‍💻 Author
+
+**Ananya Thakre**
+
+---
+
+## ⭐ Acknowledgment
+
+Data provided by **NASA NeoWs API**
