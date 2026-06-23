@@ -153,7 +153,7 @@ http://host.docker.internal:9090
   <img src="dashboard.png" width="800"/>
 </p>
 
-> 📊 Grafana dashboard showing asteroid insights
+> 📊 Grafana dashboard showing asteroid KPIs (hazard level, speed, size, distance)
 
 ---
 
