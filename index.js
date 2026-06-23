@@ -9,7 +9,7 @@ app.use(cors());
 const PORT = 4000;
 
 // 🔑 Replace with your REAL NASA API key
-const API_KEY = "pHDZR4j5xgt80bl0GClc90s166RlkLkOKxhWVrWa";
+const API_KEY = process.env.API_KEY;
 
 // ==========================
 // Prometheus Setup
